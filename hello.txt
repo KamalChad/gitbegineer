@@ -1,0 +1,1 @@
+This is to show the working directory, staging area and repository.Appending the previous file.
